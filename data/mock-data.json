@@ -1,0 +1,68 @@
+[
+    {
+        "entity": "Florian",
+        "data": [
+            {
+                "date": "02-05-2017",
+                "minutes": 68
+            },
+            {
+                "date": "03-05-2017",
+                "minutes": 0
+            },
+            {
+                "date": "04-05-2017",
+                "minutes": 120
+            },
+            {
+                "date": "05-05-2017",
+                "minutes": 83
+            },
+            {
+                "date": "06-05-2017",
+                "minutes": 0
+            },
+            {
+                "date": "07-05-2017",
+                "minutes": 45
+            },
+            {
+                "date": "08-05-2017",
+                "minutes": 182
+            }
+        ]
+    },
+    {
+        "entity": "Average User",
+        "data": [
+            {
+                "date": "02-05-2017",
+                "minutes": 43
+            },
+            {
+                "date": "03-05-2017",
+                "minutes": 38
+            },
+            {
+                "date": "04-05-2017",
+                "minutes": 62
+            },
+            {
+                "date": "05-05-2017",
+                "minutes": 48
+            },
+            {
+                "date": "06-05-2017",
+                "minutes": 32
+            },
+            {
+                "date": "07-05-2017",
+                "minutes": 20
+            },
+            {
+                "date": "08-05-2017",
+                "minutes": 20
+            }
+        ]
+    }
+]
